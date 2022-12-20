@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Aleksandre Tcharbadze and I am a junior-level ASP.Net Web Application Developer.
+My name is Aleksandre Tcharbadze and I am a junior-level React Developer.
 
 <!--
 **AleksandreTch/AleksandreTch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
